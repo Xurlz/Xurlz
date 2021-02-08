@@ -1,5 +1,3 @@
-### Olá
-
 ### Sobre mim
 Me chamo Charles.
 
