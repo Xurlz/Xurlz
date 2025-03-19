@@ -1,9 +1,19 @@
-### Sobre mim
-Me chamo Charles.
+### About me
+My name is Charles.
 
-🐘👨🏻‍💻 Desenvolvedor PHP, apesar de ter conhecimento em outras tecnologias. Atualmente trabalhando pela empresa [Gokei](https://gokeitecnologia.com.br/).
+👨🏻‍💻 Fullstack PHP developer, therefore, I have knowledge in other technologies. Recently working for [Gokei Tecnologia SA](https://gokeitecnologia.com.br/).
 
-🎓 Formado em Ciência da Computação.
+🎓 I Have a bachelor's degree in Computer Science.
 
-### Contato 
+### Statistics
+<div align="center">
+  <a href="https://github.com/Xurlz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xurlz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurlz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+### Contacts 
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/charlessenasantos)
+
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charles.sena.sa@gmail.com)
