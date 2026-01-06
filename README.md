@@ -16,4 +16,4 @@ My name is Charles.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/charlessenasantos)
 
-[![](https://img.shields.io/badge/EMAIL-EEEEEE)](mailto:by0cvcldw@relay.firefox.com)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:by0cvcldw@relay.firefox.com)
